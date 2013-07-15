@@ -40,7 +40,7 @@ BODY {
 
 /* Header */
 .slide header {
-	margin:0 0 58px;
+	margin:0 0 18px;
 	color:lightsteelblue;
 	text-transform: uppercase;
 	font:lighter 40px/1.13 'OpenSansLight', sans-serif;
@@ -407,7 +407,7 @@ BODY {
 .full .progress {
 	position:absolute;
 	right:118px;
-	bottom:49px;
+	bottom:-2px;
 	left:118px;
 	border-radius:7px;
 	border:2px solid rgba(62,62,62, 0.4);
